@@ -1,0 +1,9 @@
+.emoji-item {
+  list-style: none;
+  margin: 5px;
+}
+.emoji-button {
+  background: none;
+  border: none;
+  padding: 10px;
+}
